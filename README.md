@@ -127,5 +127,5 @@ Built entirely using **Microsoft Excel**, this project leverages advanced spread
 
 ---
 
-> Made  by [Suraj Kumar ]
+<h3> Made by: Suraj Kumar </h3>
 
