@@ -56,12 +56,12 @@ These dashboards aim to simulate a real-world business intelligence setup often 
 ---
 
 ## 🗂️ Repository Structure
-Raw Data: Contains the raw data. 
-Sales Insights Dashboard: Contains screenshot of the Sales Insights dashboard for easy previwe.
-Customer Behaviour Overview Dashboard: Contains screenshot of the Sales Insights dashboard for easy previwe. 
-Dashboard Data: Excel dashboard of the project.
-Business Questions:Contains bussiness problems and requirements.
-Bussiness Insights and Solutions: Contains business insights, overviwe and future actions for decisions.
+Raw Data: https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/coffee-shop-sales-revenue.csv <br>
+Sales Insights Dashboard: [Contains screenshot of the Sales Insights dashboard for easy previwe.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Sales_Insights_Dashboard.png) <br>
+Customer Behaviour Overview Dashboard: [Contains screenshot of the Sales Insights dashboard for easy previw e.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Customer%20Behaviour%20Overviwe_Dashboard.png) <br>
+Dashboard Data: [Excel dashboard of the project.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Dashboard.xlsx) <br>
+Business Questions:[Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20shop%20Sales%20questions%20.pdf) <br>
+Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20Shop%20Overviwe.pdf) <br>
      
 
 
