@@ -50,18 +50,39 @@ These dashboards aim to simulate a real-world business intelligence setup often 
 
 ##  Project Highlights
 
-### Dashboard 1: Sales Insights  
-- Revenue by Month  
-- Revenue by Product Category  
-- Top 10 Products by Footfalls  
-- Revenue by Store Location  
-- Monthly Footfall Trend  
-- Hourly Footfall Distribution  
+### 📘 Dashboard 1: Sales Insights
 
-### Dashboard 2: Customer Behaviour Overview  
-- Hourly Revenue Trend  
-- Footfall Distribution by Day of the Week  
-- Footfalls by Store Location  
+- **Revenue by Month**  
+  Revenue shows consistent growth, peaking between **March and June**, indicating strong seasonal performance.
+
+- **Revenue by Product Category**  
+  **Coffee** and **Tea** are the top revenue-generating categories, while other beverages and bakery items contribute moderately.
+
+- **Top 10 Products by Footfalls**  
+  High customer engagement is seen for **Brewed Chai Tea** and **Gourmet Brewed Coffee**, marking them as customer favorites.
+
+- **Revenue by Store Location**  
+  All three store locations — **Astoria**, **Hell's Kitchen**, and **Lower Manhattan** — generate comparable revenue, showing balanced performance.
+
+- **Monthly Footfall Trend**  
+  Monthly footfall trends upward, aligning with revenue growth — increased visits directly lead to higher sales.
+
+- **Hourly Footfall Distribution**  
+  The busiest hours are between **7 AM and 10 AM**, aligning with peak breakfast and coffee demand.
+
+---
+
+### 📗 Dashboard 2: Customer Behaviour Overview
+
+- **Hourly Revenue Trend**  
+  Revenue peaks during **morning hours (7 AM – 10 AM)**, with a secondary rise during midday, consistent with customer habits.
+
+- **Footfall Distribution by Day of the Week**  
+  **Fridays and Thursdays** see the highest customer traffic, while **Sundays** have the lowest, indicating a weekend slowdown.
+
+- **Footfalls by Store Location**  
+  Footfall is evenly distributed across all locations, confirming equal customer preference and strong brand consistency.
+  
 
 ---
 
