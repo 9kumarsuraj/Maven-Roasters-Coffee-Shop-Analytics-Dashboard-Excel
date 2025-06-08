@@ -14,6 +14,16 @@ This project includes:
 
 These dashboards aim to simulate a real-world business intelligence setup often used by retail operations, marketing, and executive teams to understand key performance metrics.
 
+## 📸 Dashboard Previews
+
+### 🟤 Sales Insights  
+![Sales_Insights_Dashboard](https://github.com/user-attachments/assets/69d55841-e349-49cf-9317-917deff7537e)
+
+  
+
+### 🟤 Customer Behaviour Overview  
+  ![Customer Behaviour Overviwe_Dashboard](https://github.com/user-attachments/assets/53499452-c0a7-4cde-bd21-9e8b77cc2cf6)
+
 ---
 
 ##  Key Insights & Features
@@ -92,15 +102,6 @@ Built entirely using **Microsoft Excel**, this project leverages advanced spread
 - **KPI Cards using Shapes & Linked Cells** – To visually highlight revenue, footfalls, and average order value
 - **Chart Design & Layout** – Clean, consistent visual design with a focus on readability and insights
 
-
-## 📸 Dashboard Previews
-
-### 🟤 Sales Insights  
-     ![Sales_Insights_Dashboard](https://github.com/user-attachments/assets/afa05e0e-8942-44fd-9492-9f57358e097a)
-  
-
-### 🟤 Customer Behaviour Overview  
-    ![Customer Behaviour Overviwe_Dashboard](https://github.com/user-attachments/assets/3dbb8d6e-3501-4c7d-8f3d-a225d04aa2e1)
   
 
 ---
