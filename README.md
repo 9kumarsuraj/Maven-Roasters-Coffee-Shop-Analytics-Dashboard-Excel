@@ -56,12 +56,12 @@ These dashboards aim to simulate a real-world business intelligence setup often 
 ---
 
 ## 🗂️ Repository Structure
-     Raw Data: 
-     Sales Insights Dashboard: 
-     Customer Behaviour Overview Dashboard:
-     Dashboard Data:
-     Business Questions:
-     Bussiness Insights and Solutions
+     Raw Data: Contains the raw data. 
+     Sales Insights Dashboard: Contains screenshot of the Sales Insights dashboard for easy previwe.
+     Customer Behaviour Overview Dashboard: Contains screenshot of the Sales Insights dashboard for easy previwe. 
+     Dashboard Data: Excel dashboard of the project.
+     Business Questions:Contains bussiness problems and requirements.
+     Bussiness Insights and Solutions: Contains business insights, overviwe and future actions for decisions.
      
 
 
