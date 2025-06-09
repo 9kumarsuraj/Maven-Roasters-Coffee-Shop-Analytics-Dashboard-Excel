@@ -44,7 +44,7 @@ These dashboards aim to simulate a real-world business intelligence setup often 
 - **Realistic Business Scenario**: Mirrors actual café retail analytics use-cases  
 - **Interactive Slicers**: Filter data by date, store location, and product categories  
 - **Professional UI/UX**: Clean and intuitive layout for non-technical stakeholders  
-- **Power BI Best Practices**: Visual hierarchy, tooltip use, consistent themes, and KPI display
+- **Excel Best Practices**: Visual hierarchy, tooltip use, consistent themes, and KPI display
 
 ---
 
