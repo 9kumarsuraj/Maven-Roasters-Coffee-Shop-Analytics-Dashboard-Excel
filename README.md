@@ -87,12 +87,12 @@ These dashboards aim to simulate a real-world business intelligence setup often 
 ---
 
 ## 🗂️ Repository Structure
-Raw Data: https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/coffee-shop-sales-revenue.csv <br>
-Sales Insights Dashboard: [Contains screenshot of the Sales Insights dashboard for easy previwe.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Sales_Insights_Dashboard.png) <br>
-Customer Behaviour Overview Dashboard: [Contains screenshot of the Sales Insights dashboard for easy previw e.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Customer%20Behaviour%20Overviwe_Dashboard.png) <br>
-Dashboard Data: [Excel dashboard of the project.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Dashboard.xlsx) <br>
-Business Questions:[Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20shop%20Sales%20questions%20.pdf) <br>
-Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20Shop%20Overviwe.pdf) <br>
+Raw Data: <a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/coffee-shop-sales-revenue.csv"> [Click here] </a> <br>
+Sales Insights Dashboard: <a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Sales_Insights_Dashboard.png"> [Click here] </a> <br>
+Customer Behaviour Overview Dashboard: <a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Customer%20Behaviour%20Overviwe_Dashboard.png"> [Click here] </a> <br>
+Dashboard Data: <a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Dashboard.xlsx"> [Click here] </a> <br>
+Business Questions:<a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20shop%20Sales%20questions%20.pdf"> [Click here] </a> <br>
+Bussiness Insights and Solutions:<a href="https://github.com/9kumarsuraj/Maven-Roasters-Coffee-Shop-Analytics-Dashboard-Excel/blob/main/Maven%20Roasters%20Coffee%20Shop%20Overviwe.pdf "> [Click here] </a> <br>
      
 
 
